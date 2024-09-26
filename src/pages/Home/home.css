@@ -1,0 +1,37 @@
+#style1{
+    background-color: #004481;
+    height:606px;
+    width: 413px 
+}
+
+
+#style2{ 
+    background-color: white; 
+    height: 606px; 
+    width: 861px; 
+    position: relative 
+}
+
+#style3{ 
+    background-color: rgb(250,247,247);
+    height: 362px;
+    width: 378px;
+    position: absolute;
+    top: 146px; 
+    left: 382px;
+    border-radius: 20px;
+    display: flex; 
+    align-items: center;
+    flex-direction: column 
+}
+
+#style4{ 
+    background-color: rgb(0,0,0,0);
+    height: 473px; 
+    width: 519px; 
+    position: fixed;
+    z-index: 1;
+    top: 84px;
+    left: 214px; 
+    border-radius: 3px 
+}
